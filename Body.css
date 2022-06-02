@@ -1,0 +1,53 @@
+.ab{
+    font-family: 'Montserrat';
+    
+}
+.ab>p{
+    font-size:25px;
+    color: gray;
+}
+.ab>h1{
+    color: navy;
+}
+.df{
+    /* border:2px solid rebeccapurple */
+}
+.cd{
+    /* border:2px solid rgb(128, 0, 90) */
+}
+.bc{
+    /* border:2px solid rgb(153, 138, 51) */
+}
+
+.fe{
+    /* border:2px solid rgb(51, 66, 153) */
+}
+.omg{
+    display: flex;
+}
+.god{
+    padding-left: 20px;
+}
+.hey{
+    background-color: rgb(235, 235, 247);
+    border-radius: 25px;
+}
+.omg>h1{
+    color:rgb(6, 6, 17)
+}
+.god>h1{
+    color:rgb(6, 6, 17)
+}
+.abcd{
+    /* border:1px solid red; */
+    background-color:rgb(235, 235, 247) ;
+    border-radius: 25px;
+}
+.me>li{
+    font-size: 25px;
+}
+.efgh{
+    /* border:1px solid red; */
+    background-color:rgb(245, 224, 227);
+    border-radius: 25px;
+}

@@ -1,0 +1,31 @@
+.a1{
+    background-color: rgb(74, 27, 116);
+    color:aliceblue;
+    border-radius: 10px;
+    font-size:20px;
+}
+.full{
+    display: flex;
+    justify-content: space-between;
+}
+.ab{
+    font-size:20px;
+}
+.bc{
+    font-size:20px;
+}
+.cd{
+    font-size:20px;
+}
+.ef{
+    font-size:20px;
+}
+.gh{
+    font-size:20px;
+}
+.ij{
+    font-size:20px;
+}
+.kl{
+    font-size:20px;
+}
